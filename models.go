@@ -6,8 +6,3 @@ type Version struct {
 	ForceUpdate bool   `json:"forceUpdate"`
 	URL         string `json:"url,omitempty"`
 }
-
-// Error object
-type Error struct {
-	Message string `json:"message"`
-}
