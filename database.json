@@ -1,0 +1,8 @@
+{
+    "iosVersion": "1.1.0",
+    "iosForceUpdate": "true",
+    "iosURL": "https://itunes.apple.com/us/app/telegram-messenger/id686449807?mt=8",
+    "androidVersion": "1.9.2",
+    "androidForceUpdate": "false",
+    "androidURL": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=en"
+}
